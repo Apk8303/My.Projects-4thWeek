@@ -1,0 +1,2 @@
+Learning git is a good experience , if you know how git works.
+Let's start Chapter 2
