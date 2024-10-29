@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+
     final static Scanner scanner = new Scanner(System.in);
     final static AuthorService authorService = new AuthorService();
     final static Article articleService = new Article();
@@ -49,3 +50,4 @@ public class Main {
         Author currentLoggedInAuthor = AuthenticationService.getLoggedInAuthor();
     }
 }
+// I add GitHub in my project .
